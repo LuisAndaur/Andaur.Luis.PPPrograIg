@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621290890 source:d:\tup\1er cuatrimenstre 2021\programación y laboratorio 1\2021_1c_1g_clases\andaur.luis.ppprogra1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
